@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, é um prazer ter você aqui, meu nome é João Bittencourt, tenho 18 anos e estudo desde os 15, atualmente trabalho na área de suporte, mas continuo estudando constantemente para me tornar um dev front-end 🔥
+  Olá, é um prazer ter você aqui, meu nome é João Bittencourt, tenho 18 anos e estudo programação desde os 15, atualmente trabalho na área de suporte, mas continuo estudando constantemente para me tornar um dev front-end 🔥
 </p>
 
 <p align="left">
