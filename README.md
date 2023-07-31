@@ -1,15 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, meu nome é João Bittencourt, tenho 18 anos e estudo programação desde os 15, atualmente trabalho na área de suporte, mas continuo estudando constantemente para me tornar um dev 🔥
+  Olá, meu nome é João Bittencourt, tenho 19 anos e estudo programação desde os 15, me identifico bastante com front-end, porém, tenho estudado backend para aprofundar mais conhecimento. Atualmente trabalho na área de suporte, mas continuo estudando para me aprimorar cada vez mais.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong> HTML, CSS & JavaScript </strong>
-</p>
-
-<p align="left">
-  💼 Ferramentas: <strong> Figma, React & Bootstrap </strong>
+  🦄 Conhecimento: <strong> HTML, CSS, JavaScript & Golang </strong>
 </p>
 
 <p align="left">
